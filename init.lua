@@ -1,0 +1,7 @@
+require('globalkeymaps')
+require('options')
+require('manager.lazy')
+require('config.keymaps')
+require('config.color')
+require('config.buffers')
+require('config.lsp')
